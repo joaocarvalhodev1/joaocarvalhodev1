@@ -8,27 +8,21 @@
 
 ### 🧠 A Filosofia (UI/UX & Código)
 
-Acredito que um bom código vai muito além da lógica pura; ele é a fundação de uma excelente experiência do usuário. Minha abordagem une a **disciplina tática** e a **resolução de problemas sob pressão** (heranças da minha trajetória em operações de alta demanda) com o estado da arte do desenvolvimento web moderno. 
+Acredito que um bom código vai muito além da lógica pura; ele é a fundação de uma excelente experiência do usuário. Minha abordagem une a disciplina na resolução de problemas, pensamento analítico e foco na experiência do usuário para construir aplicações confiáveis, escaláveis e fáceis de evoluir.
 
-> "Não construo apenas telas ou rotas de API. Construo ecossistemas onde o usuário final não percebe a complexidade técnica que existe por trás de um clique."
+> "A melhor tecnologia é aquela que desaparece para o usuário e permite que ele apenas resolva o problema dele."
 
 ---
 
 ### 💻 Stack Tecnológica & Arsenal
 
-Abaixo, as ferramentas que utilizo para transformar ideias em aplicações de alto desempenho:
+**Frontend & Core** <br> <kbd>React 18</kbd>  ·  <kbd>TypeScript</kbd>  ·  <kbd>Vite</kbd>  ·  <kbd>Next Themes</kbd>
 
-**Frontend & Core** <br>
-<kbd>React 18</kbd> &nbsp;&middot;&nbsp; <kbd>TypeScript</kbd> &nbsp;&middot;&nbsp; <kbd>Vite</kbd> &nbsp;&middot;&nbsp; <kbd>Next Themes</kbd>
+**Arquitetura, Estado & Dados** <br> <kbd>React Query (TanStack)</kbd>  ·  <kbd>React Hook Form</kbd>  ·  <kbd>Zod</kbd>
 
-**Arquitetura, Estado & Dados** <br>
-<kbd>React Query (TanStack)</kbd> &nbsp;&middot;&nbsp; <kbd>React Hook Form</kbd> &nbsp;&middot;&nbsp; <kbd>Zod</kbd>
+**UI / UX & Micro-interações** <br> <kbd>Tailwind CSS</kbd>  ·  <kbd>Shadcn UI</kbd>  ·  <kbd>Framer Motion</kbd>  ·  <kbd>Recharts</kbd>
 
-**UI / UX & Micro-interações** <br>
-<kbd>Tailwind CSS</kbd> &nbsp;&middot;&nbsp; <kbd>Shadcn UI</kbd> &nbsp;&middot;&nbsp; <kbd>Framer Motion</kbd> &nbsp;&middot;&nbsp; <kbd>Recharts</kbd>
-
-**Backend, Banco de Dados & Infra** <br>
-<kbd>Supabase</kbd> &nbsp;&middot;&nbsp; <kbd>PostgreSQL</kbd> &nbsp;&middot;&nbsp; <kbd>Node.js</kbd> &nbsp;&middot;&nbsp; <kbd>Edge Functions</kbd>
+**Backend, Banco de Dados & Infra** <br> <kbd>Supabase</kbd>  ·  <kbd>PostgreSQL</kbd>  ·  <kbd>Node.js</kbd>  ·  <kbd>Edge Functions</kbd>
 
 ---
 
@@ -36,13 +30,36 @@ Abaixo, as ferramentas que utilizo para transformar ideias em aplicações de al
 
 ```json
 {
-  "projeto_atual": "Oheim (Plataforma SaaS)",
-  "status": "Em desenvolvimento ativo (Privado)",
-  "foco_tecnico": [
-    "Arquitetura de Single Page Application (SPA)",
-    "Gestão de estado complexa com React Query",
-    "Engenharia de dados e Autenticação via Supabase",
-    "Design de interfaces premium (Radix UI + Tailwind)"
+  "projeto_atual": "ORIGEM CRM (Plataforma SaaS multi-tenant)",
+  "ambiente": "Produção",
+  "responsabilidades": [
+    "Investigação e diagnóstico de incidentes",
+    "Correção de bugs com foco em estabilidade",
+    "Análise de arquitetura e fluxo de dados",
+    "Implementação de novas funcionalidades",
+    "Entregas através de Pull Requests"
   ],
-  "objetivo": "Entregar um CRM enterprise escalável com automações e dados em tempo real."
+  "stack_utilizada": [
+    "React",
+    "TypeScript",
+    "React Query",
+    "Supabase",
+    "PostgreSQL"
+  ],
+  "engenharia": [
+    "Observabilidade e debugging",
+    "Real Time",
+    "Performance",
+    "Arquitetura SPA",
+    "Boas práticas de código"
+  ],
+  "workflow": [
+    "Análise estratégica",
+    "Investigação assistida por IA",
+    "Implementação",
+    "Validação",
+    "Entrega"
+  ],
+  "objetivo": "Construir um CRM robusto, escalável e confiável para uso em produção."
 }
+```
